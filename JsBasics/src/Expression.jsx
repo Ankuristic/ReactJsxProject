@@ -16,8 +16,10 @@ const isMarried = false;
 function sum (){
   let a = 10*5;
   return a ;
-  // a funnction should be nothing to jsx
+  // a funnction without return  should be nothing to jsx
 }
+
+const header = <h2> Jsx Expression </h2> // jsx expression 
 
   return (
    <>
